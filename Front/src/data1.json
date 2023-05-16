@@ -1,0 +1,82 @@
+[
+    {
+        "logo": "https://s3.polygon.io/logos/amd/logo.png",
+        "name": "Advanced Micro Devices Inc.",
+        "change": "-0.1003",
+        "sell": 89.49,
+        "buy": 89.72,
+        "ragne":"54.50-109.43",
+        "symbol":"amd",
+        "sector":"Technology"
+    },
+    {
+        "logo": "https://s3.polygon.io/logos/intc/logo.png",
+        "name": "Intel Corporation",
+        "change": -1.2541,
+        "sell": 29.87,
+        "buy": 29.98,
+        "ragne":"24.56-46.58",
+        "symbol":"intc",
+        "sector":"Technology"
+    },
+    {
+        "logo": "https://s3.polygon.io/logos/pep/logo.png",
+        "name": "PepsiCo Inc.",
+        "change": -0.3548,
+        "sell": 190.77,
+        "buy": 191.37,
+        "ragne":"154.71-192.03",
+        "symbol":"pep",
+        "sector":"Consumer Defensive"
+    },
+    {
+        "logo": "https://s3.polygon.io/logos/ko/logo.png",
+        "name": "Coca-Cola Company (The)",
+        "change": -0.7698,
+        "sell": 63.71,
+        "buy": 63.93,
+        "ragne":"53.93-66.31",
+        "symbol":"ko",
+        "sector":"Consumer Defensive"
+    },
+    {
+        "logo": "https://s3.polygon.io/logos/aapl/logo.png",
+        "name": "Apple Inc.",
+        "change": -0.5484,
+        "sell": 168.37,
+        "buy": 168.90,
+        "ragne":"123.99-175.98",
+        "symbol":"aapl",
+        "sector":"Technology"
+    },
+    {
+        "logo": "https://s3.polygon.io/logos/nflx/logo.png",
+        "name": "Netflix Inc.",
+        "change": -1.5164,
+        "sell": 318.72,
+        "buy": 319.77,
+        "ragne":"162.45-378.80",
+        "symbol":"nflx",
+        "sector":"Consumer Cyclical"
+    },
+    {
+        "logo": "https://s3.polygon.io/logos/amzn/logo.png",
+        "name": "Amazon.com Inc.",
+        "change": 1.4919,
+        "sell": 103.43,
+        "buy": 103.72,
+        "ragne":"82.08-131.02",
+        "symbol":"amzn",
+        "sector":"Consumer Cyclical"
+    },
+    {
+        "logo": "https://s3.polygon.io/logos/tsla/logo.png",
+        "name": "Tesla Inc.",
+        "change": -0.0691,
+        "sell": 161.48,
+        "buy": 162.03,
+        "ragne":"101.67-318.03",
+        "symbol":"tsla",
+        "sector":"Consumer Cyclical"
+    }
+]
